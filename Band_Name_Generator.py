@@ -14,7 +14,7 @@ words_number = 2
 # create constant literal 'words_number' and add value '2'
 
 words_list = random.sample(words,words_number)
-# creats a variable that will get the value of the list 
+# create a variable that will get the value of the list 
 # using the module random and variable '.sample'we will generate two random items from the list
 
 first_words = words_list[0]
