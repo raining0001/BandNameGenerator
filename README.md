@@ -1,2 +1,2 @@
 # BandNameGenerator
-BandNameGenerator using Python to recive input from user and then to diceplay it.
+Updated the code, using lists and classes.
